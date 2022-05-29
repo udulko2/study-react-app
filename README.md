@@ -1,5 +1,9 @@
-## Publishing sources for GitHub Pages site
+## GitHub Pages Deployment config
 
-This branch (`gh-pages`) is created exclusively for publishing sources for project site (***available by the url on the right side panel***).
+This branch contains changes in package.json file required to build react application, and deploy it to GitHub Pages site.
 
-#### All the sources were built and deployed following the [Deployment instructions](https://create-react-app.dev/docs/deployment/#github-pages).
+Publishing sources for GitHub Pages site are located on `gh-pages` branch.
+
+***The site itself is available by the url on the right side panel***
+
+#### To understand how all the things done follow the [Deployment instructions](https://create-react-app.dev/docs/deployment/#github-pages).
