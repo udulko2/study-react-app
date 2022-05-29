@@ -1,6 +1,6 @@
 ## GitHub Pages Deployment config
 
-This branch contains changes in package.json file required to build react application, and deploy it to GitHub Pages site.
+This branch contains changes in package.json file required to build react application, and deploy it to GitHub Pages site. Build represents files (sources) for publishing on server. 
 
 Publishing sources for GitHub Pages site are located in `gh-pages` branch.
 
