@@ -1,4 +1,4 @@
-## GitHub Pages Deployment
+## React App Deployment (to GitHub Pages)
 
 This branch contains changes in package.json file required to build react application, and deploy it to GitHub Pages site. Build represents files (sources) for publishing on server. 
 
