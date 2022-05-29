@@ -2,7 +2,7 @@
 
 This branch contains changes in package.json file required to build react application, and deploy it to GitHub Pages site.
 
-Publishing sources for GitHub Pages site are located on `gh-pages` branch.
+Publishing sources for GitHub Pages site are located in `gh-pages` branch.
 
 ***The site itself is available by the url on the right side panel***
 
