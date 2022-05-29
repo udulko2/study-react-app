@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Study React App
 
 ## Preface
 
@@ -11,6 +9,10 @@ How to build React application and deploy it on GitHub Pages see `github-pages-d
 Publishing sources for GitHub Pages site are located in `gh-pages` branch.
 
 ***The site itself is available by the url on the right side panel***
+
+## Getting Started with Create React App 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
