@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span style={{color:'orange'}}>Study</span> React
+          <span style={{color:'red'}}>Study</span> React <span style={{color:'lawngreen'}}>App</span>
         </a>
       </header>
     </div>
